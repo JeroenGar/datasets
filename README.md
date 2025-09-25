@@ -12,12 +12,12 @@ Each subdirectory contains a README file that provides information about the dat
 
 
 The main subdirectories are:
-- [`1d`](1d): Datasets for one-dimensional cutting and packing problems.
-- [`2d_rectangular`](2d_rectangular): Datasets for two-dimensional rectangular cutting and packing problems.
-- [`2d_irregular`](2d_irregular): Datasets for two-dimensional irregular cutting and packing problems.
-- [`3d_rectangular`](3d_rectangular): Datasets for three-dimensional rectangular cutting and packing problems.
-- [`3d_irregular`](3d_irregular): Datasets for three-dimensional irregular cutting and packing problems.
-- [`misc`](misc): Miscellaneous datasets that do not fit into the above categories.
+- [`1d`](1d/README.md): Datasets for one-dimensional cutting and packing problems.
+- [`2d_rectangular`](2d_rectangular/README.md): Datasets for two-dimensional rectangular cutting and packing problems.
+- [`2d_irregular`](2d_irregular/README.md): Datasets for two-dimensional irregular cutting and packing problems.
+- [`3d_rectangular`](3d_rectangular/README.md): Datasets for three-dimensional rectangular cutting and packing problems.
+- [`3d_irregular`](3d_irregular/README.md): Datasets for three-dimensional irregular cutting and packing problems.
+- [`misc`](misc/README.md): Miscellaneous datasets that do not fit into the above categories.
 
 
 ## Contribute
