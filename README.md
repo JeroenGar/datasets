@@ -1,5 +1,6 @@
-# Academic Cutting & Packing Datasets from the ESICUP community
-This repository contains a collection of datasets for academic research in cutting and packing problems. The datasets are intended to facilitate benchmarking and comparison of different algorithms and approaches.
+#  Cutting & Packing Datasets for Academic Research
+This repository contains a collection of datasets for academic research in Cutting and Packing (C&P) problems by the ESICUP community.
+The datasets are intended to facilitate benchmarking and comparison of different algorithms and approaches.
 
 > [!NOTE]
 > This resource was previously hosted at [https://github.com/ESICUP/datasets](https://github.com/ESICUP/datasets), but has been migrated to GitHub in an effort to improve maintainability and long-term availability.
@@ -26,13 +27,22 @@ To contribute, please [fork this repository](https://docs.github.com/en/pull-req
 
 We encourage contributions in the following areas:
 
-### New Datasets
+### New Dataset
 
-To add a new dataset, create a new subdirectory under the appropriate category (e.g., `1d`, `2d_rectangular`, etc.) and include the dataset files along with a README file that contains a description of the structure of the files.
-Make sure the accompanying publication (including DOI) is referenced.
-Add a brief summary of the dataset and a link to the folder to the README file in the corresponding subdirectory (in alphabetical order).
+Let's go through an example of contributing a new dataset called `my_new_dataset` which contains a new 1D C&P dataset.
+1. Edit the `1d/README.md` file to include a new entry for `my_new_dataset` in alphabetical order, following the format of existing entries. For example:
+    - [`my_new_dataset`](my_new_dataset)
+        - Author(s). (Year). Title of the publication. Journal/Conference, Volume(Issue), Page numbers. DOI: https://doi.org/xxxx
+        - A very brief description of the dataset and its characteristics.
+1. Create a new folder `1d/my_new_dataset` and add your source files there.
+1. Make sure the `1d/my_new_dataset` directory contains a `README.md` file describing the contents, characteristics and the file format in detail.
+1. Commit your changes and submit a pull request for review.
+
+Ensure to always provide proper reference with DOI for the dataset (can be either a preprint or published version).
+We also welcome converted datasets, but do require the original source files to also exist in the repository.
 
 ### Corrections and Improvements
 
-For some datasets, the descriptions and/or files may be incomplete or messy. 
-If you notice any issues or have suggestions for improvements, please feel free to submit a pull request with the necessary changes.
+This repository started off as a direct clone of the ESICUP datasets webpage.
+Therefore, some datasets may contain descriptions and/or files that are incomplete or messy.
+If you encounter any errors, inconsistencies or have suggestions for improvements, please feel free to [submit an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) or a pull request with the necessary changes.
