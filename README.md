@@ -3,7 +3,7 @@ This repository contains a collection of datasets for academic research in Cutti
 The datasets are intended to facilitate benchmarking and comparison of different algorithms and approaches.
 
 > [!NOTE]
-> This resource was previously hosted at [https://github.com/ESICUP/datasets](https://github.com/ESICUP/datasets), but has been migrated to GitHub in an effort to improve maintainability and long-term availability.
+> This resource was previously hosted at https://www.euro-online.org/websites/esicup/data-sets/, but has been migrated to GitHub in an effort to improve maintainability and long-term availability.
 
 ## Structure
 
