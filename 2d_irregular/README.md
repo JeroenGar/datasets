@@ -20,6 +20,11 @@
 - [`fu`](fu)
     - Artificially created data set, scanned by E. Hopper from sample layout in Fujita K., Akagji, S. and Kirokawa, N., 1993, “Hybrid approach for optimal nesting using a genetic algorithm and a local minimisation algorithm”, Proceedings of the 19th Annual ASME Design Automation Conference, Part 1 (of 2), Albuquerque, NM, USA, vol. 65, part 1, pp. 477-484.
 
+- [`gardeyn`](gardeyn)
+    - Gardeyn, J., Berghe, G. V., & Wauters, T. (2025). An open-source heuristic to reboot 2D nesting research. arXiv preprint https://doi.org/10.48550/arXiv.2509.13329.
+    - Ten challenging 2D irregular strip packing instances derived from various real-world applications. Both 90-degree and continuous rotation versions are provided.
+
+
 - [`guillotine`](guillotine)
     - Irregular Guillotine Bin Packing
     - *[No further description or reference]*
