@@ -3,7 +3,7 @@ This repository contains a collection of datasets for academic research in Cutti
 The datasets are intended to facilitate benchmarking and comparison of different algorithms and approaches.
 
 > [!NOTE]
-> This resource was previously hosted at [https://github.com/ESICUP/datasets](https://github.com/ESICUP/datasets), but has been migrated to GitHub in an effort to improve maintainability and long-term availability.
+> This resource was previously hosted at https://www.euro-online.org/websites/esicup/data-sets/, but has been migrated to GitHub in an effort to improve maintainability and long-term availability.
 
 ## Structure
 
@@ -12,12 +12,12 @@ Each subdirectory contains a README file that provides information about the dat
 
 
 The main subdirectories are:
-- [`1d`](1d): Datasets for one-dimensional cutting and packing problems.
-- [`2d_rectangular`](2d_rectangular): Datasets for two-dimensional rectangular cutting and packing problems.
-- [`2d_irregular`](2d_irregular): Datasets for two-dimensional irregular cutting and packing problems.
-- [`3d_rectangular`](3d_rectangular): Datasets for three-dimensional rectangular cutting and packing problems.
-- [`3d_irregular`](3d_irregular): Datasets for three-dimensional irregular cutting and packing problems.
-- [`misc`](misc): Miscellaneous datasets that do not fit into the above categories.
+- [`1d`](1d/README.md): Datasets for one-dimensional cutting and packing problems.
+- [`2d_rectangular`](2d_rectangular/README.md): Datasets for two-dimensional rectangular cutting and packing problems.
+- [`2d_irregular`](2d_irregular/README.md): Datasets for two-dimensional irregular cutting and packing problems.
+- [`3d_rectangular`](3d_rectangular/README.md): Datasets for three-dimensional rectangular cutting and packing problems.
+- [`3d_irregular`](3d_irregular/README.md): Datasets for three-dimensional irregular cutting and packing problems.
+- [`misc`](misc/README.md): Miscellaneous datasets that do not fit into the above categories.
 
 
 ## Contribute
@@ -40,6 +40,9 @@ Let's go through an example of contributing a new dataset called `my_new_dataset
 
 Ensure to always provide proper reference with DOI for the dataset (can be either a preprint or published version).
 We also welcome converted datasets, but do require the original source files to also exist in the repository.
+
+> [!TIP]
+> See [this pull request](https://github.com/ESICUP/datasets/pull/3) as an example of a new dataset contribution
 
 ### Corrections and Improvements
 
