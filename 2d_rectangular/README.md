@@ -42,12 +42,12 @@
 - [`j`](j)
     - 2D Rectangular Strip Packing Problems (J) from JAKOBS (1996). 
     - This file contains two test problems from Jakobs (1996).
-    - *[FILES MISSING?]*
+    - *[Only a single PDF?]*
 
 - [`kendall`](kendall)
     - 2D Rectangular Strip Packing Problems (KENDALL) from BURKE/KENDALL (1999)
     - Burke E. and Kendall G., 1999. Applying Simulated Annealing and the No Fit Polygon to the Nesting Problem. Proceedings of the World Manufacturing Congress, Durham, UK, pp. 27-30.
-    - *[FILES MISSING?]*
+    - *[Only a single PDF?]*
 
 - [`m`](m)
     - 2D Rectangular Bin Packing Problems (M) from HOPPER/TURTON (2002)
