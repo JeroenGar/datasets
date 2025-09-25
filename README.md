@@ -41,6 +41,9 @@ Let's go through an example of contributing a new dataset called `my_new_dataset
 Ensure to always provide proper reference with DOI for the dataset (can be either a preprint or published version).
 We also welcome converted datasets, but do require the original source files to also exist in the repository.
 
+> [!TIP]
+> See [this pull request](https://github.com/ESICUP/datasets/pull/3) as an example of a new dataset contribution
+
 ### Corrections and Improvements
 
 This repository started off as a direct clone of the ESICUP datasets webpage.
